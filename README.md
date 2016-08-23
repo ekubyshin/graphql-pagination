@@ -26,10 +26,10 @@ Doesn't support Relay response schema.
 	        hasPrevPage: {
 	            type: GraphQLBoolean
 	        }
-	        },
-	        edges: {
-	        	type: GraphQLCustomUserType
-	        }
+        },
+        edges: {
+        	type: GraphQLCustomUserType
+        }
 	}
 
 #API
