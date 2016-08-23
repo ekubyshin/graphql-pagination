@@ -1,7 +1,7 @@
 {
   "name": "graphql-pagination-response",
   "version": "1.0.0",
-  "description": "GraphQLObjectType fabric to provide ability make pagination response for mongodb",
+  "description": "GraphQLObjectType fabric to provide ability to make pagination response for mongodb",
   "main": "bin/index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register",

@@ -1,4 +1,4 @@
-# graphql-mongodb-pagination
+# graphql-pagination-response
 GraphQLObjectType fabric to provide ability make pagination response.
 
 Use with mongodb only.
