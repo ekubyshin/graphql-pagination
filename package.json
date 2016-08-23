@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ekubyshin/koa-jwtauth"
+    "url": "https://github.com/ekubyshin/graphql-pagination"
   },
   "dependencies": {
     "babel-runtime": "^6.11.6"
