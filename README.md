@@ -44,7 +44,7 @@ Doesn't support Relay response schema.
     	paginationResponse,
     	responseFromCursor, 
     	paginationArgs
-	} from 'graphql-mongodb-pagination'
+	} from 'graphql-pagination'
 	import {
 		GraphQLSchema,
 		GraphQLObjectType
