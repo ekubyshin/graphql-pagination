@@ -1,0 +1,32 @@
+{
+  "name": "graphql-pagination-response",
+  "version": "1.0.0",
+  "description": "GraphQLObjectType fabric to provide ability make pagination response for mongodb",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register",
+    "install": "rm -rf bin/* && babel lib/index.js -o bin/index.js -b regenerator"
+  },
+  "keywords": [
+    "graphql",
+    "pagination",
+    "mongodb"
+  ],
+  "author": "Evgeniy Kubyshin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekubyshin/koa-jwtauth"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.11.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-stage-2": "^6.13.0",
+    "es6-promise": "^3.2.1"
+  }
+}
