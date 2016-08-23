@@ -1,5 +1,5 @@
 {
-  "name": "graphql-pagination-response",
+  "name": "graphql-pagination",
   "version": "1.0.0",
   "description": "GraphQLObjectType fabric to provide ability to make pagination response for mongodb",
   "main": "bin/index.js",
