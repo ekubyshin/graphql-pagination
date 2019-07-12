@@ -8,8 +8,8 @@ Doesn't support Relay response schema.
 #Response schema
 
 	{
-		pageInfo: {
-			count: {
+        pageInfo: {
+            count: {
 	            type: GraphQLInt
 	        },
 	        limit: {
